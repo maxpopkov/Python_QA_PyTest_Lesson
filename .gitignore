@@ -1,0 +1,6 @@
+/.idea/
+/venv/
+/tests/1_pytest_string/.pytest_cache/
+/tests/2_pytest_list/.pytest_cache/
+/tests/3_pytest_dict/.pytest_cache/
+/tests/4_pytest_set/.pytest_cache/

@@ -1,0 +1,11 @@
+[
+  "test_pytest_string_in.py::test_one",
+  "test_pytest_dict_add.py::test_dict_add",
+  "test_pytest_dict_key.py::test_key_in_dict[B]",
+  "test_pytest_dict_key.py::test_key_in_dict[E]",
+  "test_pytest_dict_value.py::test_dict_get_value",
+  "test_pytest_dict_value.py::test_dict_get_value[A]",
+  "test_pytest_dict_value.py::test_dict_get_value[B]",
+  "test_pytest_dict_copy.py::test_copy_dict",
+  "test_pytest_dict.py::test_key_in_dict"
+]

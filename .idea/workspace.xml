@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14f6fb77-ef87-4a30-a520-c3c0b95de720" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_pytest_string/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_pytest_string/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_pytest_string/test_pytest_find_symbol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_pytest_string/test_pytest_string_1thsymbol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_pytest_string/test_pytest_string_empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_pytest_string/test_pytest_string_figures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/1_pytest_string/test_pytest_string_summ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_pytest_list/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_pytest_list/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_pytest_list/test_list_add_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_pytest_list/test_list_append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_pytest_list/test_list_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_pytest_list/test_list_empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/2_pytest_list/test_list_remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_pytest_dict/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_pytest_dict/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_pytest_dict/test_pytest_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_pytest_dict/test_pytest_dict_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_pytest_dict/test_pytest_dict_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_pytest_dict/test_pytest_dict_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/3_pytest_dict/test_pytest_dict_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_pytest_set/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_pytest_set/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_pytest_set/test_pytest_set_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_pytest_set/test_pytest_set_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_pytest_set/test_pytest_set_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_pytest_set/test_pytest_set_empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/4_pytest_set/test_pytest_union_set.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Max P\PycharmProjects\Python_QA_PyTest_Lesson\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQbOyF5qnSYKkNOvQ9AkyFrBJS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Max P\PycharmProjects\Python_QA_PyTest_Lesson" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest for test_pytest_find_symbol.test_string_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_QA_PyTest_Lesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/1_pytest_string" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pytest_find_symbol.test_string_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_pytest_find_symbol.test_string_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f6fb77-ef87-4a30-a520-c3c0b95de720" name="Default Changelist" comment="" />
+      <created>1579084737691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579084737691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="24" key="SettingsEditor" timestamp="1579084804406">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="24" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1579084804406" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+{
+  "test_pytest_dict_add.py::test_dict_add": true,
+  "test_pytest_dict_key.py::test_key_in_dict[E]": true,
+  "test_pytest_dict_value.py::test_dict_get_value[B]": true
+}

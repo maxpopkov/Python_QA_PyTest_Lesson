@@ -1,0 +1,7 @@
+{
+  "test_pytest_set_add.py": true,
+  "test_pytest_set_add.py::test_set_add[4]": true,
+  "test_pytest_set_value.py": true,
+  "test_pytest_set_value.py::test_value_in_set[2]": true,
+  "test_pytest_union_set.py::test_union_sets": true
+}

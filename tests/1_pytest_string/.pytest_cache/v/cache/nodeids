@@ -1,0 +1,23 @@
+[
+  "test_pytest_string_in.py::test_one",
+  "conftest.py::test_string_1[p]",
+  "conftest.py::test_string_1[y]",
+  "conftest.py::test_string_1[t]",
+  "conftest.py::test_string_1[h]",
+  "conftest.py::test_string_1[o]",
+  "conftest.py::test_string_1[n]",
+  "test_pytest_string_in.py::test_string_1[p]",
+  "test_pytest_string_in.py::test_string_1[t]",
+  "test_pytest_string_in.py::test_string_1[b]",
+  "test_pytest_string_summ.py::test_string_1[p]",
+  "test_pytest_string_summ.py::test_string_1[t]",
+  "test_pytest_string_summ.py::test_string_1[b]",
+  "test_pytest_string_empty.py::test_string_1",
+  "test_pytest_string_figures.py::test_string_1",
+  "test_pytest_string_1thsymbol.py::test_string_1[y]",
+  "test_pytest_string_1thsymbol.py::test_string_1[o]",
+  "test_pytest_find_symbol.py::test_string_1[y]",
+  "test_pytest_find_symbol.py::test_string_1[o]",
+  "test_pytest_find_symbol.py::test_string_1[t]",
+  "test_pytest_find_symbol.py::test_string_1[h]"
+]
