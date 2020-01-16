@@ -1,9 +1,0 @@
-[
-  "test_pytest_string_in.py::test_one",
-  "test_pytest_set_comparison.py::test_set_comparison",
-  "test_pytest_set_add.py::test_set_add[4]",
-  "test_pytest_set_value.py::test_value_in_set[2]",
-  "test_pytest_set_value.py::test_value_in_set",
-  "test_pytest_union_set.py::test_union_sets",
-  "test_pytest_set_copy.py::test_set_copy"
-]

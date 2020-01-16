@@ -1,9 +1,0 @@
-{
-  "test_pytest_find_symbol.py::test_string_1[y]": true,
-  "test_pytest_string_1thsymbol.py::test_string_1[o]": true,
-  "test_pytest_string_empty.py::test_string_1": true,
-  "test_pytest_string_in.py::test_string_1[b]": true,
-  "test_pytest_string_in.py::test_string_1[t]": true,
-  "test_pytest_string_summ.py::test_string_1[b]": true,
-  "test_pytest_string_summ.py::test_string_1[t]": true
-}

@@ -1,8 +1,0 @@
-{
-  "test_find_elem.py": true,
-  "test_find_elem.py::test_find_elem_in_list[1]": true,
-  "test_find_elem.py::test_find_elem_in_list[2]": true,
-  "test_list_remove.py": true,
-  "test_list_remove.py::test_del_in_list": true,
-  "test_list_remove.py::test_remove_in_list[2]": true
-}
