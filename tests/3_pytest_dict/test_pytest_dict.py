@@ -11,7 +11,8 @@ def test_key_in_dict(fixture_return_dict):
 """Тест-кейс добавление в словарь"""
 
 
-@pytest.mark.parametrize("test_input, test_input_2", ["D, E"])
+@pytest.mark.parametrize("test_input", 'D')
+@pytest.mark.parametrize("test_input_2", 'F')
 def test_dict_add(test_input, test_input_2, fixture_return_dict):
     fixture_return_dict[test_input] = 4
     fixture_return_dict[test_input_2] = 5

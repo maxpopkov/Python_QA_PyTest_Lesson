@@ -3,7 +3,8 @@ import pytest
 """Тест-кейс добавления элменета в множество"""
 
 
-@pytest.mark.parametrize("test_input, test_input_2", ["4", "5"])
+@pytest.mark.parametrize("test_input", "4")
+@pytest.mark.parametrize("test_input_2", "5")
 def test_set_add(test_input, test_input_2, fixture_return_set):
     fixture_return_set.add(test_input)
     fixture_return_set.add(test_input_2)
