@@ -1,0 +1,1 @@
+from Lesson_05_Python.practic_figure.figure_class_subclass import *

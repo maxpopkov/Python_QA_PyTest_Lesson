@@ -1,5 +1,7 @@
-"""Создание класса геом. фигуры и подклассов"""
-
+"""
+Описание классов ООП
+Фигура- наследники конретные фигуры
+"""
 
 class Figure():
     def __init__(self, name, angles, length_side):
@@ -19,9 +21,9 @@ class Figure():
         area = "Это площадь фигуры"
         return area
 
-    def add_square(self, other_figure, area, area_other):
+    def add_square(self, other_figure):
         if isinstance(other_figure, Figure):
-            print(area + area_other)
+            return self.area() + other_figure.area()
         else:
             print("Значение не определено в классе")
 
@@ -61,19 +63,18 @@ class Square(Figure):
 
 class Rectangle(Figure):
     def __init__(self, length_side_1, length_side_2):
-        super().__init__(name="rectangle", angles=4)
-        self.length_side_1 = length_side_1
+        super().__init__(name="rectangle", angles=4, length_side=length_side_1)
         self.length_side_2 = length_side_2
 
     def __str__(self):
         return "Прямоугольник"
 
     def perimeter(self):
-        perimeter = (self.length_side_1 + self.length_side_2) * 2
+        perimeter = (self.length_side + self.length_side_2) * 2
         return perimeter
 
     def area(self):
-        area_rectangle = self.length_side_1 * self.length_side_2
+        area_rectangle = self.length_side * self.length_side_2
         return area_rectangle
 
 
@@ -91,15 +92,3 @@ class Circle(Figure):
     def area(self):
         area_circle = 3.14 * self.length_side * self.length_side
         return area_circle
-
-
-cir = Circle(30)
-tri = Right_Triangle(30, 10)
-
-len_cir = cir.circle_length()
-area_cir = cir.area()
-
-per_tri = tri.perimeter()
-area_tri = tri.area()
-
-tri.add_square(cir, area_tri, area_cir)
